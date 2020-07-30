@@ -25,7 +25,6 @@ RESOURCES:
  
  
  
- DATE: 07/30/2020
- -Yair Camacho
- 
+DATE: 07/30/2020
 
+-Yair Camacho
