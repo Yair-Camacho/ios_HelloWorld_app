@@ -2,15 +2,15 @@
 
 PURPOSE:  
 
-          1.Overview of the syntax and structure of
+           1.Overview of the syntax and structure of
             Swift.
             
-          2.Basic introduction to the Xcode
+           2.Basic introduction to the Xcode
             environment. Learning how to create an
             Xcode project and layout user interface
             using Interface Builder.
  
-          3.Learn how to compile a program, build an
+           3.Learn how to compile a program, build an
             app and test it using built-in simulator.       
         
 RESOURCES: 
@@ -21,9 +21,11 @@ RESOURCES:
            First App in Swift).
  
  
+
+ 
+ 
+ 
  DATE: 07/30/2020
- 
- 
- 
- 
  -Yair Camacho
+ 
+
